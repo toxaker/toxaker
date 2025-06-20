@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-Вот красивый и динамичный шаблон для вашего GitHub-профиля с анимациями, иконками и детализацией навыков:
 
 
-<!-- Анимированный заголовок с эффектом печати -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22F769&width=435&lines=Привет%2C+Я+toxakalinin+%F0%9F%91%8B;DevOps+%26+Security+Engineer;Full-Cycle+Developer;Cyber+Security+Researcher" alt="Анимированный заголовок">
 </div>
 
-<!-- Анимированный баннер -->
+
 <div align="center">
   <img src="https://github.com/toxakalinin/toxakalinin/assets/94138313/4c0b7c1c-6b8c-4b0d-8d0d-2b6a3f3d4b1f" alt="cyber banner" width="800">
 </div>
