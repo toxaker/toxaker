@@ -5,9 +5,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github.com/toxakalinin/toxakalinin/blob/main/Assets/a9fa175c-b20a-4686-9cdc-089f163517e9.jpg" alt="Cyber Banner" width="800">
-</div>
 
 ---
 
