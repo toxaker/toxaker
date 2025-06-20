@@ -2,7 +2,7 @@
 
 Вот красивый и динамичный шаблон для вашего GitHub-профиля с анимациями, иконками и детализацией навыков:
 
-```markdown
+
 <!-- Анимированный заголовок с эффектом печати -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22F769&width=435&lines=Привет%2C+Я+toxakalinin+%F0%9F%91%8B;DevOps+%26+Security+Engineer;Full-Cycle+Developer;Cyber+Security+Researcher" alt="Анимированный заголовок">
@@ -97,6 +97,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=toxakalinin&color=blueviolet&style=flat-square" alt="Просмотры">
 </div>
-```
 
 
