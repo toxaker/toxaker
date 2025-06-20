@@ -1,6 +1,7 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22F769&center=true&vCenter=true&multiline=true&width=600&lines=Привет%2C+Я+toxakalinin+%F0%9F%91%8B;DevOps+%26+Security+Engineer;Full-Cycle+Developer;Cyber+Security+Researcher" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22F769&center=true&vCenter=true&multiline=true&width=600&lines=Привет%2C+Я+toxakalinin+%F0%9F%91%8B;DevOps+%26+Security+Engineer;Full-Cycle+Developer;Cyber+Security+Researcher" alt="Typing SVG">
+
 </div>
 
 
