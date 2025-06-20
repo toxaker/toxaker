@@ -1,9 +1,9 @@
-<!-- Приветствие с анимированным заголовком -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22F769&center=true&vCenter=true&multiline=true&width=600&lines=Привет%2C+Я+toxakalinin+%F0%9F%91%8B;DevOps+%26+Security+Engineer;Full-Cycle+Developer;Cyber+Security+Researcher" alt="Typing SVG">
 </div>
 
-<!-- Баннер -->
+
 <div align="center">
   <img src="https://github.com/toxakalinin/toxakalinin/assets/94138313/4c0b7c1c-6b8c-4b0d-8d0d-2b6a3f3d4b1f" alt="Cyber Banner" width="800">
 </div>
@@ -17,24 +17,6 @@
 - 👯 Открыт к сотрудничеству: стартапы, devops, prod-ready деплой, web
 - 🧠 Пишу скрипты, изучаю глубокую защиту, OSINT, L7 firewall
 - 🌍 Поддерживаю open-source и Tor-проекты
-
----
-
-## 🔧 Мой Тех Стек
-
-### 🚀 Языки
-<p align="left">
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
-
-### 🌐 Веб-технологии
-```diff
-+ Frontend: HTML/CSS, JavaScript
-+ Backend: Python, Flask, PHP
-+ API: REST, Webhooks
-
-
 
 
 ## 🌐 Socials:
