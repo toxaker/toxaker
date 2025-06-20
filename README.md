@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/toxakalinin/toxakalinin/assets/94138313/4c0b7c1c-6b8c-4b0d-8d0d-2b6a3f3d4b1f" alt="Cyber Banner" width="800">
+  <img src="https://github.com/toxakalinin/toxakalinin/blob/main/Assets/a9fa175c-b20a-4686-9cdc-089f163517e9.jpg" alt="Cyber Banner" width="800">
 </div>
 
 ---
