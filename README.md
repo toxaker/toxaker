@@ -23,9 +23,9 @@
 
 #### **🌐 Веб-технологии**
 ```diff
-+ Frontend: HTML/CSS, JavaScript, React
-+ Backend: Django, Flask, FastAPI
-+ API: REST, GraphQL
++ Frontend: HTML/CSS, JavaScript
++ Backend: Python, Flask, PHP
++ API: REST
 ```
 
 #### **🔒 Безопасность**
